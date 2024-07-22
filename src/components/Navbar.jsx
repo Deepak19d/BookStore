@@ -54,7 +54,7 @@ function Navbar() {
       <ul
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
-      {navItems}</ul>
+      {navItes}</ul>
     </div>
     <a className=" text-2xl font-bold cursor-pointer">Book Shelf</a>
   </div>
