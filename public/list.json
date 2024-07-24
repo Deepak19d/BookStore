@@ -4,7 +4,7 @@
         "name":"The Pragmatic Programmer",
         "title":"The book helps you to continue to grow and clearly comes from people who have been there.",
         "price":0,
-        "category":"Free",
+        "category":"Engineers",
         "image":"https://books.google.co.in/books/content?id=5wBQEp6ruIAC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U1571Ssmd_XMXP7jp8SQA5id0GAMw&w=1280"
     },
     {
@@ -20,7 +20,7 @@
         "name":"Clean Code",
         "title":"The first describes the principles, patterns, and practices of writing ...",
         "price":1089,
-        "category":"Free",
+        "category":"Coding",
         "image":"https://res.cloudinary.com/practicaldev/image/fetch/s--Z8OP7vZ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/8etf99rgjqkmvl0n12b8.jpg"
     },
     {
@@ -28,23 +28,7 @@
         "name":"The Pragmatic Programmer",
         "title":"The book helps you to continue to grow and clearly comes from people who have been there.",
         "price":0,
-        "category":"Free",
-        "image":"https://books.google.co.in/books/content?id=5wBQEp6ruIAC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U1571Ssmd_XMXP7jp8SQA5id0GAMw&w=1280"
-    },
-    {
-        "id":5,
-        "name":"The Pragmatic Programmer",
-        "title":"The book helps you to continue to grow and clearly comes from people who have been there.",
-        "price":0,
-        "category":"Free",
-        "image":"https://books.google.co.in/books/content?id=5wBQEp6ruIAC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U1571Ssmd_XMXP7jp8SQA5id0GAMw&w=1280"
-    },
-    {
-        "id":6,
-        "name":"The Pragmatic Programmer",
-        "title":"The book helps you to continue to grow and clearly comes from people who have been there.",
-        "price":0,
-        "category":"Free",
+        "category":"Developers",
         "image":"https://books.google.co.in/books/content?id=5wBQEp6ruIAC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U1571Ssmd_XMXP7jp8SQA5id0GAMw&w=1280"
     }
 ]
