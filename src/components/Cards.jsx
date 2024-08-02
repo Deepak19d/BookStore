@@ -4,7 +4,7 @@ function Cards({ item }) {
   console.log(item);
   return (
     <>
-      <div className="mt-4 my-3">
+      <div className="mt-4 my-3 p-3">
         <div className="card w-92 bg-base-100 w-96 shadow-xl">
           <figure>
             <img src={item.image} alt="BookCover" />
