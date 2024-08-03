@@ -9,8 +9,8 @@ function Banner() {
           <div className="space-y-12">
             <h1 className="text-4xl font-bold">
               Enjoy special discounts, seasonal offers, and exclusive deals
-              available only to our{" "}
-              <span className="text-blue-500">online customers.</span>
+              available only to our online Customers.{" "}
+              {/* <span className="text-green-500">online customers.</span> */}
             </h1>
             <p className="text-xl">
               Subscribe to our newsletter for the latest updates, new arrivals,
