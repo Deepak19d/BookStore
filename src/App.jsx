@@ -1,6 +1,6 @@
 import React from "react";
-import Home from "./components/home/Home";
-import { Route, Routes } from "react-router-dom"
+import { Route, Routes } from "react-router-dom";
+import Home from "./home/Home";
 import Courses from "./courses/Courses";
 function App() {
   return (
@@ -8,8 +8,8 @@ function App() {
       {/* <Home />
       <Course /> */}
       <Routes>
-        <Route path="/" element={<Home/>}/>
-        <Route path="/course" element={<Courses />}/>
+        <Route path="/" element={<Home />} />
+        <Route path="/course" element={<Courses />} />
       </Routes>
     </>
   );

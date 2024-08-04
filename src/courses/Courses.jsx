@@ -9,8 +9,9 @@ export default function Courses() {
   return (
     <div>
       <Navbar />
-      <div className="min-h-screen"></div>
-      <Course />
+      <div className="min-h-screen">
+        <Course />
+      </div>
       <Footer />
     </div>
   );
