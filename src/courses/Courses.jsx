@@ -2,10 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Course from "../components/Course";
-import list from "../../public/list.json";
-
-export default function Courses() {
-  console.log(list);
+function Courses() {
   return (
     <div>
       <Navbar />
@@ -16,3 +13,5 @@ export default function Courses() {
     </div>
   );
 }
+
+export default Courses;

@@ -1,5 +1,5 @@
 import React from "react";
-
+import list from "../../public/list.json";
 function Course() {
   return (
     <>
@@ -18,6 +18,12 @@ function Course() {
           <button className=" mt-6 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-700 duration-300">
             Back
           </button>
+        </div>
+        <div>
+          {
+          list.map((item) => (
+            <Cards key={item.id} item={item} />
+          ))}
         </div>
       </div>
     </>
